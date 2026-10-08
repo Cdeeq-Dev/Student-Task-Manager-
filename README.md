@@ -45,7 +45,7 @@ Since this project is built using native web technologies, no installation, depe
 
 ## 4. How Data Is Stored
 
-This application uses the browser's native **`LocalStorage` API** to store task data locally on the user's device.
+This application uses the browser's native **`LocalStorage` API** to store vetask data locally on the user's device.
 
 ### Implementation Details:
 - **Data Model:** Tasks are represented as an array of objects:
